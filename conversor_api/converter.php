@@ -20,7 +20,7 @@
             
             $cotacao = $dados["value"][0]["cotacaoCompra"];
             
-            //echo "A cotação do Dólar é de $cotacao";
+            echo "A cotação do Dólar é de $cotacao";
             
             $real = $_REQUEST["din"] ?? 0;
 
