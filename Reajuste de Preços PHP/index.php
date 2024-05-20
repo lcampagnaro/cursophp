@@ -32,7 +32,7 @@
     </section>
     <script>
         mudaValor()
-        function mudaValor(){
+            function mudaValor(){
             p.innerText = reaj.value;
         }
     </script>
